@@ -1,2 +1,1 @@
-# launching-into-Cybersecurity
-MSc Cybersecurity - Launching into Cybersecurity - May 2021
+# Launching into Cybersecurity Module Overview - May 2021
